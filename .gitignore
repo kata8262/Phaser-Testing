@@ -1,2 +1,20 @@
-/cache/
-/config/development/
+# Dependencies 
+node_modules/
+jspm_packages/
+
+# Build outputs 
+dist/
+build/
+out/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Environment variables / Secrets
+.env
+.env.local
